@@ -1,5 +1,5 @@
 [package]
-name = "bevy_spatial_boids"
+name = "bevy-spatial-boids"
 version = "0.1.0"
 edition = "2021"
 
